@@ -88,3 +88,19 @@ The store can use targeted advertisements, discounts and promotional offers thro
 ## 📌 Dataset
 
 The dataset contains 31,048 sales records from 2022 and was used for analyzing customer behavior and sales performance.
+
+
+The data was used to analyze:
+
+- Customer demographics
+- Gender
+- Age groups
+- Sales performance
+- Product categories
+- Sales channels
+- State-wise performance
+- Order status
+- Monthly sales trends
+
+The original dataset was cleaned and processed in Microsoft Excel before performing the analysis.
+The dataset contains 31,048 sales records from 2022 and was used for analyzing customer behavior and sales performance.
